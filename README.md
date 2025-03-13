@@ -4,7 +4,7 @@ This **Unity C# script** allows players to take in-game screenshots with a **fla
 **🔥UPDATES SOON🔥**
 
 ## 🚀 Features
-- 🖼️ **Saves to:** `C:\Users\YourUsername\Pictures\YourGameName\Screenshots`
+- 🖼️ **Saves to:** `C:\Users\User\Pictures\GameName\Screenshots`
 - ⚡ **Flash effect appears when the screenshot is taken**
 - 📷 **Camera shutter sound effect**
 - 🔥 **Customizable screenshot key (default: F12)**
