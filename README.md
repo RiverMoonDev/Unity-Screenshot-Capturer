@@ -1,6 +1,8 @@
 # Unity-Screenshot-Capturer 1.0
 This **Unity C# script** allows players to take in-game screenshots with a **flash effect, notification and a sound effect**, while saving images to the **Windows Pictures folder** in a game-specific subfolder.
 
+**🔥UPDATES SOON🔥**
+
 ## 🚀 Features
 - 🖼️ **Saves to:** `C:\Users\YourUsername\Pictures\YourGameName\Screenshots`
 - ⚡ **Flash effect appears when the screenshot is taken**
